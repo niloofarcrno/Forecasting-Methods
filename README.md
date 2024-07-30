@@ -1,1 +1,1 @@
-# Forecasting_Methods (Time Series-based Prediction)
+# International Market Analysis and Trend Analysis 
