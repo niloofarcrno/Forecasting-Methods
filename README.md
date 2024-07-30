@@ -1,1 +1,2 @@
 # International Market Analysis and Trend Analysis 
+Time series analysis is essential for extracting meaningful statistics and characteristics from time-dependent data. This repository focuses on applying time series forecasting techniques to predict future values in the lumber production market based on historical data. Accurate market predictions can significantly enhance decision-making processes for stakeholders in the lumber industry.
